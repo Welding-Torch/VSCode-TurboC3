@@ -13,8 +13,15 @@
 - 4. Support multi-file project construction in Borland C environment 
 - 5. Support opening Borland C and direct positioning To the current project   
 
-# How to use 
+# Commands
+This extension comes with 5 built-in commands. They are:
+1. onCommand:borland-c.dosbox
+2. onCommand:borland-c.bc31
+3. onCommand:borland-c.bc-compile
+4. onCommand:borland-c.bc-build
+5. onCommand:borland-c.bc-open-prj
 
+# How to use 
 
 *** It is recommended that before using the extension, first understand the basic usage of vscode, you can first try to use vscode and mingw64 to build a C/C++ development environment*** 
 
@@ -49,7 +56,7 @@
 
 # Requirement 
 
-* comes from ` bc31 of HUST AIA` 
+* comes from ` bc31 of HUST AIA` (see ending of Readme.md)
 
 * Please make sure that there are no illegal characters in the path where bc31 is located (such as Chinese characters, brackets, etc.)   
 
@@ -61,44 +68,35 @@
 # Changelog 
 
 - 1.0.0 
-
 - Implemented basic bc compilation and build functions 
 
 
 - 1.0.1 
-
 - Fixed several bugs 
 
 
 - 1.0.2 
-
 - Added "prj_out_dir" property 
 
 
 - 1.0.4
-
 - Updated README because someone downloaded it 
 
 
 - 1.0.5 
-
 - Fixed some bugs 
 
 
 - 1.0.6 
-
 - Added new features, support to open the project directly with bc 
 
 
 - 1.0.9 
-
 - Updated ReadMe.md 
 
 
 # More 
-
 * source code Download[https://github.com/Inso-13/vscode-BC](https://github.com/Inso-13/vscode-BC) 
-
 * IMouse source code and sample download[https://github.com/ Inso-13/BC-IMouse](https://github.com/Inso-13/BC-IMouse)
 
 ------
