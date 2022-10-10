@@ -123,8 +123,18 @@ https://blog.csdn.net/weixin_30693183/article/details/97745702
 Turns out, there are a LOT of HUST projects on GitHub. Maybe browsing one of these will reveal more information about their VSCode setup.
 https://github-com.translate.goog/topics/hust?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
 
+More Links:
+
+- His Proper Blog: https://www.cnblogs.com/
+
+- I'm almost 40 years old, should I continue to code? https://blog.csdn.net/weixin_30693183/article/details/102197835?spm=1001.2014.3001.5502
+- How to think like a computer https://blog.csdn.net/weixin_30693183/article/details/97636963?spm=1001.2014.3001.5502
+- C++ Pointers https://blog.csdn.net/weixin_30693183/article/details/96995858?spm=1001.2014.3001.5502
+- Reading 'Teacher-Student Relationship' https://blog.csdn.net/weixin_30693183/article/details/99762630?spm=1001.2014.3001.5502
+- A VERY GOOD article(Welding-Torch recommends) on Fixing Bad SD Cards. Genius. I wish I came across this before I bought a new SD Card. https://blog.csdn.net/weixin_30693183/article/details/94955881?spm=1001.2014.3001.5502
 ------
 
 Note: I found out that **HUST AIA** is the **Huazhong University of Science and Technology** (HUST) School of **Artificial Intelligence and Automation** (AIA).
+Note: **CDSN** is **Chinese Software Developer Network**. 
 
 
