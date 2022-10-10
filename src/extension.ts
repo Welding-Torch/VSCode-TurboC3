@@ -18,12 +18,12 @@ export function activate(context: vscode.ExtensionContext) {
 		// eslint-disable-next-line @typescript-eslint/naming-convention
 		if(vscode.workspace.workspaceFolders === undefined)
 		{
-			vscode.window.showErrorMessage("请打开DISK_C文件夹!（文件->打开文件夹）");
+			vscode.window.showErrorMessage("Please open the DISK_C folder! (File->Open Folder");
 			return;
 		}
 		if(vscode.workspace.workspaceFolders[0].name !== "DISK_C")
 		{
-			vscode.window.showErrorMessage("请打开DISK_C文件夹!（文件->打开文件夹）");
+			vscode.window.showErrorMessage("Please open the DISK_C folder! (File -> Open Folder)");
 			return;
 		}
 		
@@ -38,12 +38,12 @@ export function activate(context: vscode.ExtensionContext) {
 		// eslint-disable-next-line @typescript-eslint/naming-convention
 		if(vscode.workspace.workspaceFolders === undefined)
 		{
-			vscode.window.showErrorMessage("请打开DISK_C文件夹!（文件->打开文件夹）");
+			vscode.window.showErrorMessage("Please open the DISK_C folder! (File -> Open Folder)");
 			return;
 		}
 		if(vscode.workspace.workspaceFolders[0].name !== "DISK_C")
 		{
-			vscode.window.showErrorMessage("请打开DISK_C文件夹!（文件->打开文件夹）");
+			vscode.window.showErrorMessage("Please open the DISK_C folder! (File -> Open Folder)");
 			return;
 		}
 		
@@ -56,11 +56,11 @@ export function activate(context: vscode.ExtensionContext) {
         // The code you place here will be executed every time your command is executed
         // eslint-disable-next-line @typescript-eslint/naming-convention
         if (vscode.workspace.workspaceFolders === undefined) {
-            vscode.window.showErrorMessage("请打开DISK_C文件夹!（文件->打开文件夹）");
+            vscode.window.showErrorMessage("Please open the DISK_C folder! (File -> Open Folder)");
             return;
         }
         if (vscode.workspace.workspaceFolders[0].name !== "DISK_C") {
-            vscode.window.showErrorMessage("请打开DISK_C文件夹!（文件->打开文件夹）");
+            vscode.window.showErrorMessage("Please open the DISK_C folder! (File -> Open Folder)");
             return;
         }
 
@@ -73,11 +73,11 @@ export function activate(context: vscode.ExtensionContext) {
         // The code you place here will be executed every time your command is executed
         // eslint-disable-next-line @typescript-eslint/naming-convention
         if (vscode.workspace.workspaceFolders === undefined) {
-            vscode.window.showErrorMessage("请打开DISK_C文件夹!（文件->打开文件夹）");
+            vscode.window.showErrorMessage("Please open the DISK_C folder! (File -> Open Folder)");
             return;
         }
         if (vscode.workspace.workspaceFolders[0].name !== "DISK_C") {
-            vscode.window.showErrorMessage("请打开DISK_C文件夹!（文件->打开文件夹）");
+            vscode.window.showErrorMessage("Please open the DISK_C folder! (File -> Open Folder)");
             return;
 		}
 
@@ -102,11 +102,11 @@ export function activate(context: vscode.ExtensionContext) {
         // The code you place here will be executed every time your command is executed
         // eslint-disable-next-line @typescript-eslint/naming-convention
         if (vscode.workspace.workspaceFolders === undefined) {
-            vscode.window.showErrorMessage("请打开DISK_C文件夹!（文件->打开文件夹）");
+            vscode.window.showErrorMessage("Please open the DISK_C folder! (File -> Open Folder)");
             return;
         }
         if (vscode.workspace.workspaceFolders[0].name !== "DISK_C") {
-            vscode.window.showErrorMessage("请打开DISK_C文件夹!（文件->打开文件夹）");
+            vscode.window.showErrorMessage("Please open the DISK_C folder! (File -> Open Folder)");
             return;
 		}
 
