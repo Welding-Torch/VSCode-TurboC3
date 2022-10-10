@@ -4,7 +4,10 @@
 - In order to easily build projects in the Borland C31 environment in vscode 
 - for C class design 
 - Come on, class design!  
-  
+
+# Goal For Me (Welding-Torch):
+I will primarily edit package.json and src/extension.ts to first make it English, then map it to correct path on my college's Windows setup, and then I will learn how to publish a VSCode extension and make this work.
+
 # Features 
 
 - 1. Support activating DOSBOX 
@@ -62,7 +65,7 @@ This extension comes with only one changeable setting:
 
 * comes from ` bc31 of HUST AIA` (see ending of Readme.md)
 
-* Please make sure that there are no illegal characters in the path where bc31 is located (such as Chinese characters, brackets, etc.)   
+* Please make sure that there are **no illegal characters** in the path where bc31 is located (such as Chinese characters, brackets, etc.)   
 
 # Configuration- 
 
@@ -122,6 +125,6 @@ https://github-com.translate.goog/topics/hust?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl
 
 ------
 
-Note: I found out that HUST AIA is the Huazhong University of Science and Technology (HUST) School of Artificial Intelligence and Automation (AIA).
+Note: I found out that **HUST AIA** is the **Huazhong University of Science and Technology** (HUST) School of **Artificial Intelligence and Automation** (AIA).
 
 
