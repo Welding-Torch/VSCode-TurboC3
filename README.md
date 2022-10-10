@@ -9,8 +9,8 @@
 
 - 1. Support activating DOSBOX 
 - 2. Support activating BC 
-- 3. Support single file compilation in 
-Borland C environment - 4. Support multi-file project construction in Borland C environment 
+- 3. Support single file compilation in Borland C environment
+- 4. Support multi-file project construction in Borland C environment 
 - 5. Support opening Borland C and direct positioning To the current project   
 
 # How to use 
