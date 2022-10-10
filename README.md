@@ -5,7 +5,7 @@
 - for C class design 
 - Come on, class design!  
 
-# Goal For Me (Welding-Torch):
+# 🎯Goal For Me (Welding-Torch):
 I will primarily edit package.json and src/extension.ts to first make it English, then map it to correct path on my college's Windows setup, and then I will learn how to publish a VSCode extension and make this work.
 
 # Features 
