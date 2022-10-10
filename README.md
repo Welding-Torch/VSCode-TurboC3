@@ -100,3 +100,8 @@
 * source code Download[https://github.com/Inso-13/vscode-BC](https://github.com/Inso-13/vscode-BC) 
 
 * IMouse source code and sample download[https://github.com/ Inso-13/BC-IMouse](https://github.com/Inso-13/BC-IMouse)
+
+------
+
+## HUST AIA's resources(You can find how he set up his configutration of TurboC from here)
+https://github-com.translate.goog/mfp0610/HUST-AIA-Courses-Resource?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
