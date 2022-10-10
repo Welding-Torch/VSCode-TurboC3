@@ -15,11 +15,11 @@
 
 # Commands
 This extension comes with 5 built-in commands. They are:
-1. onCommand:borland-c.dosbox
-2. onCommand:borland-c.bc31
-3. onCommand:borland-c.bc-compile
-4. onCommand:borland-c.bc-build
-5. onCommand:borland-c.bc-open-prj
+1. `onCommand:borland-c.dosbox`
+2. `onCommand:borland-c.bc31`
+3. `onCommand:borland-c.bc-compile`
+4. `onCommand:borland-c.bc-build`
+5. `onCommand:borland-c.bc-open-prj`
 
 # How to use 
 
