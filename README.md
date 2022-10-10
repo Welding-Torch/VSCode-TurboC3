@@ -106,4 +106,11 @@ This extension comes with only one changeable setting:
 ------
 
 ## HUST AIA's resources(You can find how he set up his configutration of TurboC from here)
+
 https://github-com.translate.goog/mfp0610/HUST-AIA-Courses-Resource?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
+
+## HUST AIA's Blog Post
+Link to HUST AIA's blog that I found which talks about how to use this extension
+https://blog.csdn.net/weixin_30693183/article/details/97745702
+
+
