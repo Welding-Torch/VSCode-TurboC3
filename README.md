@@ -21,6 +21,10 @@ This extension comes with 5 built-in commands. They are:
 4. `onCommand:borland-c.bc-build`
 5. `onCommand:borland-c.bc-open-prj`
 
+# Settings
+This extension comes with only one changeable setting:
+`Project output directory (should fill in the complete virtual directory, such as C:\BORLANDC\BIN)`
+
 # How to use 
 
 *** It is recommended that before using the extension, first understand the basic usage of vscode, you can first try to use vscode and mingw64 to build a C/C++ development environment*** 
