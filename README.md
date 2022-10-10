@@ -109,8 +109,15 @@ This extension comes with only one changeable setting:
 
 https://github-com.translate.goog/mfp0610/HUST-AIA-Courses-Resource?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
 
+# HUST AIA's TurboC (.zip file)
+https://github-com.translate.goog/mfp0610/HUST-AIA-Courses-Resource/tree/main/%E5%BF%85%E4%BF%AE%E8%AF%BE/%E7%AC%AC1%E5%AD%A6%E6%9C%9F/C%E8%AF%AD%E8%A8%80/%E5%B7%A5%E5%85%B7?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
+
 ## HUST AIA's Blog Post
 Link to HUST AIA's blog that I found which talks about how to use this extension
 https://blog.csdn.net/weixin_30693183/article/details/97745702
+
+------
+
+Note: I found out that HUST AIA is the Huazhong University of Science and Technology (HUST) School of Artificial Intelligence and Automation (AIA).
 
 
